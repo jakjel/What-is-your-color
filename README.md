@@ -9,6 +9,7 @@ https://whats-your-color.netlify.app
 <img height= "400" alt="settings" src="https://user-images.githubusercontent.com/107802809/232344340-23846329-80a6-4108-bcac-0d1fe34da067.png">
 <h4>When listening button is pressed</h4>
 <img height= "400" alt="listening screen" src="https://user-images.githubusercontent.com/107802809/232345933-2244ac66-8db3-4e80-b698-93d0ab4aa578.png">
+ <img height= "400" alt="listening screen blue" src="https://user-images.githubusercontent.com/107802809/232346315-4c20f05e-06e6-4c36-9309-a754c7a0ee9f.png">
 <h4>Match found!</h4>
 <img height= "400" alt="match found Christmas" src="https://user-images.githubusercontent.com/107802809/232344429-083597fd-2ab5-484f-ad4b-388faba4bd90.png">
 <img height= "400" alt="match blue" src="https://user-images.githubusercontent.com/107802809/232345989-ac04b353-662b-4f53-a85f-e1957ba13749.png">
