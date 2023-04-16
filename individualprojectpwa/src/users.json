@@ -1,0 +1,30 @@
+[
+    {
+        "username": "example", 
+        "hex": "#22007c" 
+    },
+    {
+        "username": "christmas", 
+        "hex": "#d90d1e"
+    },
+    {
+        "username": "yoghurt", 
+        "hex": "#ffffff"
+    },
+    {
+        "username": "sun", 
+        "hex": "#f3de21"
+    },
+    {
+        "username": "night", 
+        "hex": "#4a4a48"
+    },
+    {
+        "username": "email", 
+        "hex": "#4afcff"
+    },
+    {
+        "username": "screen", 
+        "hex": "#7a7a7a"
+    }
+]
